@@ -1,0 +1,16 @@
+{
+    "name": "ej/value",
+    "description": "Este es el ejercicio numero 7 y se desarrolla el concepto de Value Object",
+    "autoload": {
+        "psr-4": {
+            "Ej\\Value\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Rodriguez",
+            "email": "rafa.sosa20@gmail.com"
+        }
+    ],
+    "require": {}
+}

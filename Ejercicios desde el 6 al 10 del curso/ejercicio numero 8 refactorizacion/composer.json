@@ -1,0 +1,16 @@
+{
+    "name": "ej8/refactorizacion",
+    "description": "este es el ejercicio numero 8 donde se aplica refactorizacion para eliminar los if y los switch",
+    "autoload": {
+        "psr-4": {
+            "Ej8\\Refactorizacion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Rodriguez",
+            "email": "rafa.sosa20@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,16 @@
+{
+    "name": "practicas-de-composer/psr4",
+    "description": "esta es mi practica con composer",
+    "autoload": {
+        "psr-4": {
+            "PracticasDeComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Rodriguez",
+            "email": "rafa.sosa20@gmail.com"
+        }
+    ],
+    "require": {}
+}

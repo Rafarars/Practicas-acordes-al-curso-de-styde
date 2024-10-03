@@ -1,0 +1,16 @@
+{
+    "name": "practicas/polimorfismo",
+    "description": "este es el ejercicio numero 9 y se hace un repaso utilizando polimorfismo",
+    "autoload": {
+        "psr-4": {
+            "Practicas\\Polimorfismo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Rodriguez",
+            "email": "rafa.sosa20@gmail.com"
+        }
+    ],
+    "require": {}
+}

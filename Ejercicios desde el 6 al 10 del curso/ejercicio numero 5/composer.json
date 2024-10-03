@@ -1,0 +1,16 @@
+{
+    "name": "ejercicio/4",
+    "description": "este es mi ejercicio numero 4 que proviene de la clase numero 8 del curso de styde",
+    "autoload": {
+        "psr-4": {
+            "Ejercicio4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Rodriguez",
+            "email": "rafa.sosa20@gmail.com"
+        }
+    ],
+    "require": {}
+}

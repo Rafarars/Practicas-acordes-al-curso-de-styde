@@ -1,0 +1,16 @@
+{
+    "name": "patron/factory",
+    "description": "este es el ejercicio numero 6 implementando el patron factory",
+    "autoload": {
+        "psr-4": {
+            "Patron\\Factory\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Rodriguez",
+            "email": "rafa.sosa20@gmail.com"
+        }
+    ],
+    "require": {}
+}
